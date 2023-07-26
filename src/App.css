@@ -1,0 +1,10 @@
+.container {
+  max-width: 1080px;
+  margin: -10px 0px 10px auto;
+  margin-bottom: 10px;
+  padding: 20px;
+}
+
+body {
+  background-color: rgb(21, 31, 27);
+}
